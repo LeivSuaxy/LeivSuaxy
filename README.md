@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi,%20I'm%20LeivSuaxy%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+# Hi, I'm LeivSuaxy!
 
 <b>I am a student of Computer Science Engineering, at the University of Computer Sciences
 (<a href="https://www.uci.cu/">UCI</a>) Cuba cu.<br></b>
