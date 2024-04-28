@@ -19,6 +19,8 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=%23E34F26&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=%231572B6&logoSize=auto)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeivSuaxy&layout=compact)](https://github.com/LeivSuaxy)
+
 
 
 ## 📖 What I am currently learning / improving on
