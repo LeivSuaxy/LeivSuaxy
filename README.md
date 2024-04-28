@@ -22,8 +22,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeivSuaxy&layout=compact)](https://github.com/LeivSuaxy)
 
-
-
 ## 📖 What I am currently learning / improving on
 
 ![Static Badge](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&logoSize=auto)
