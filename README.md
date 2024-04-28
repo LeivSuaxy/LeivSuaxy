@@ -15,6 +15,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=yellow&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/C--Sharp-0d1117?style=for-the-badge&logo=csharp&logoColor=blue&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=%230b4e1e&logoSize=auto)
+<br/>
 ![Static Badge](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=%234479A1&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=%23E34F26&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=%231572B6&logoSize=auto)
@@ -39,6 +40,7 @@
 ![Static Badge](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=%2347A248)
 ![Static Badge](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=%23009688&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=%233178C6&logoSize=auto)
+<br/>
 ![Static Badge](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=%232496ED&logoSize=auto)
 
