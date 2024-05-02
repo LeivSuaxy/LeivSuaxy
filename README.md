@@ -17,7 +17,7 @@
 
 ## 📖 What I am currently learning / improving on
 
-![.NET, Node.JS, JavaScript](https://skillicons.dev/icons?i=dotnet,nodejs,js&perline=3)
+![.NET, Node.JS, JavaScript, Angular](https://skillicons.dev/icons?i=dotnet,nodejs,js,angular&perline=3)
 
 * Learning about security systems and information encryption.
 * Learning about using APIs from different systems.
