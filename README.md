@@ -9,11 +9,13 @@
 💪🏼Competitive personality with desire to improve.<br>
 💻Inclined towards backend software development.<br>
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeivSuaxy&show_icons=true&theme=radical)](https://github.com/LeivSuaxy)
+
 ## 🖥 Languages & Technologies
 
 ![Python, C-Sharp, Django, Java, MySQL, HTML5, CSS](https://skillicons.dev/icons?i=python,cs,django,java,mysql,html,css&perline=3)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeivSuaxy&layout=compact)](https://github.com/LeivSuaxy)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeivSuaxy&layout=compact&theme=radical)](https://github.com/LeivSuaxy)
 
 ## 📖 What I am currently learning / improving on
 
