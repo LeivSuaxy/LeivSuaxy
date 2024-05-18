@@ -19,7 +19,7 @@
 
 ## 📖 What I am currently learning / improving on
 
-![.NET, Node.JS, JavaScript, Angular](https://skillicons.dev/icons?i=dotnet,nodejs,js,angular&perline=3)
+![.NET, Node.JS, JavaScript, Angular, TypeScript](https://skillicons.dev/icons?i=dotnet,nodejs,js,angular,ts&perline=3)
 
 * Learning about security systems and information encryption.
 * Learning about using APIs from different systems.
@@ -28,4 +28,4 @@
 
 ## 🔍 Interested in
 
-![MongoDB, FastAPI, TypeScript, React, Docker](https://skillicons.dev/icons?i=mongodb,fastapi,ts,react,docker&perline=3)
+![MongoDB, FastAPI, React, Docker](https://skillicons.dev/icons?i=mongodb,fastapi,react,docker&perline=3)
