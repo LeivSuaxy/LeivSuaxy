@@ -29,3 +29,7 @@
 ## 🔍 Interested in
 
 ![MongoDB, FastAPI, React, Docker](https://skillicons.dev/icons?i=mongodb,fastapi,react,docker&perline=3)
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=LeivSuaxy&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
