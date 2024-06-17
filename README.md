@@ -11,8 +11,6 @@
 
 ## Skills
 
-![](https://komarev.com/ghpvc/?username=LeivSuaxy&abbreviated=true)
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeivSuaxy&show_icons=true&theme=vision-friendly-dark)](https://github.com/LeivSuaxy)
 
 ## 🖥 Languages & Technologies
