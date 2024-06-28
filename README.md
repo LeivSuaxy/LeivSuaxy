@@ -15,7 +15,7 @@
 
 ## 🖥 Languages & Technologies
 
-![Python, C-Sharp, Django, Java, MySQL, HTML5, CSS](https://skillicons.dev/icons?i=python,cs,django,java,mysql,html,css&perline=3)
+![Python, C-Sharp, Django, Java, MySQL, HTML5, CSS, PostgreSQL](https://skillicons.dev/icons?i=python,cs,django,java,mysql,html,css,postgres&perline=3)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeivSuaxy&layout=compact&theme=vision-friendly-dark)](https://github.com/LeivSuaxy)
 
