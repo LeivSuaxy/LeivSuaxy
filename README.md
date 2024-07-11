@@ -14,23 +14,29 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeivSuaxy&show_icons=true&theme=vision-friendly-dark)](https://github.com/LeivSuaxy)
 
 ## 🖥 Languages & Technologies
-
-![Python, C-Sharp, Django, Java, MySQL, HTML5, CSS, PostgreSQL](https://skillicons.dev/icons?i=python,cs,django,java,mysql,html,css,postgres&perline=3)
+## 🛠 Languages
+![Python, C-Sharp, Java, TypeScript, HTML5, CSS, JavaScript](https://skillicons.dev/icons?i=python,cs,java,ts,html,css,js&perline=3)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeivSuaxy&layout=compact&theme=vision-friendly-dark)](https://github.com/LeivSuaxy)
 
+## ⚙ Frameworks
+![Django, Angular](https://skillicons.dev/icons?i=django,angular)<br/>
+
+## 💾 Databases
+![PostgreSQL, MySQL](https://skillicons.dev/icons?i=postgresql,mysql)
+
 ## 📖 What I am currently learning / improving on
 
-![.NET, Node.JS, JavaScript, Angular, TypeScript](https://skillicons.dev/icons?i=dotnet,nodejs,js,angular,ts&perline=3)
+![.NET, Node.JS, FastAPI, Docker](https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,docker&perline=3)
 
 * Learning about security systems and information encryption.
-* Learning about using APIs from different systems.
-* Learning how to handle JSON files.
-
 
 ## 🔍 Interested in
 
-![MongoDB, FastAPI, React, Docker](https://skillicons.dev/icons?i=mongodb,fastapi,react,docker&perline=3)
+![MongoDB, React](https://skillicons.dev/icons?i=mongodb,react&perline=3)
+
+## 💻 Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeivSuaxy&repo=Gestion-de-inventario-para-tienda-minorista&theme=vision-friendly-dark)](https://github.com/LeivSuaxy/Gestion-de-inventario-para-tienda-minorista)
 
 <hr/>
 
