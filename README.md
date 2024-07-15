@@ -25,6 +25,9 @@
 ## 💾 Databases
 ![PostgreSQL, MySQL](https://skillicons.dev/icons?i=postgresql,mysql)
 
+## 🔧 Tools
+![Git, JetBrains, VisualStudio, PostMan](https://skillicons.dev/icons?i=git,idea,pycharm,webstorm,visualstudio,postman&perline=3)
+
 ## 📖 What I am currently learning / improving on
 
 ![.NET, Node.JS, FastAPI, Docker](https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,docker&perline=3)
