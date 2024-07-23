@@ -23,7 +23,7 @@
 ![Django, Angular](https://skillicons.dev/icons?i=django,angular)<br/>
 
 ## 💾 Databases
-![PostgreSQL, MySQL](https://skillicons.dev/icons?i=postgresql,mysql)
+![PostgreSQL, MySQL, SQLite](https://skillicons.dev/icons?i=postgresql,mysql,sqlite)
 
 ## 🔧 Tools
 ![Git, JetBrains, VisualStudio, PostMan](https://skillicons.dev/icons?i=git,idea,pycharm,webstorm,visualstudio,postman&perline=3)
