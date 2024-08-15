@@ -23,20 +23,20 @@
 ![Django, Angular](https://skillicons.dev/icons?i=django,angular)<br/>
 
 ## 💾 Databases
-![PostgreSQL, MySQL, SQLite](https://skillicons.dev/icons?i=postgresql,mysql,sqlite)
+![PostgreSQL, MySQL, SQLite, MongoDB](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb&perline=2)
 
 ## 🔧 Tools
 ![Git, JetBrains, VisualStudio, PostMan](https://skillicons.dev/icons?i=git,idea,pycharm,webstorm,rider,visualstudio,postman&perline=3)
 
 ## 📖 What I am currently learning / improving on
 
-![.NET, Node.JS, FastAPI, Docker](https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,docker&perline=3)
+![.NET, Node.JS, FastAPI, Docker](https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,docker&perline=2)
 
 * Learning about security systems and information encryption.
 
 ## 🔍 Interested in
 
-![MongoDB, React](https://skillicons.dev/icons?i=mongodb,react&perline=3)
+![React](https://skillicons.dev/icons?i=react&perline=3)
 
 ## 💻 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeivSuaxy&repo=Gestion-de-inventario-para-tienda-minorista&theme=vision-friendly-dark)](https://github.com/LeivSuaxy/Gestion-de-inventario-para-tienda-minorista)
