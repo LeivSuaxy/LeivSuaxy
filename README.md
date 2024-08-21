@@ -20,7 +20,7 @@
 <img src="https://github.com/LeivSuaxy/Image-Gen/blob/master/generated/languages.svg#gh-dark-mode-only"/>
 
 ## ⚙ Frameworks
-![Django, Angular](https://skillicons.dev/icons?i=django,angular)<br/>
+![Django, Angular, Bootstrap](https://skillicons.dev/icons?i=django,angular,bootstrap)<br/>
 
 ## 💾 Databases
 ![PostgreSQL, MySQL, SQLite, MongoDB](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb&perline=2)
