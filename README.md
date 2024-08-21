@@ -11,7 +11,7 @@
 
 ## Skills
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeivSuaxy&show_icons=true&theme=vision-friendly-dark)](https://github.com/LeivSuaxy)
+<img src="https://github.com/LeivSuaxy/Image-Gen/blob/master/generated/overview.svg#gh-dark-mode-only"/>
 
 ## 🖥 Languages & Technologies
 ## 🛠 Languages
