@@ -17,9 +17,7 @@
 ## 🛠 Languages
 ![Python, C-Sharp, Java, TypeScript, HTML5, CSS, JavaScript](https://skillicons.dev/icons?i=python,cs,java,ts,html,css,js&perline=3)
 
-![](https://raw.githubusercontent.com/LeivSuaxy/Image-Gen/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/LeivSuaxy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeivSuaxy&layout=compact&theme=vision-friendly-dark)](https://github.com/LeivSuaxy)
+<img src="https://github.com/LeivSuaxy/Image-Gen/blob/master/generated/languages.svg#gh-dark-mode-only"/>
 
 ## ⚙ Frameworks
 ![Django, Angular](https://skillicons.dev/icons?i=django,angular)<br/>
