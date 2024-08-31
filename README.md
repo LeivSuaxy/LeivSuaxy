@@ -40,11 +40,3 @@
 
 ## 💻 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeivSuaxy&repo=Gestion-de-inventario-para-tienda-minorista&theme=vision-friendly-dark)](https://github.com/LeivSuaxy/Gestion-de-inventario-para-tienda-minorista)
-
-<hr/>
-
-[![LeivSuaxy github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeivSuaxy&theme=high-contrast)](https://github.com/LeivSuaxy/github-readme-activity-graph)
-
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=LeivSuaxy&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
