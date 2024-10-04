@@ -11,6 +11,7 @@
 
 ## Skills
 
+![](https://raw.githubusercontent.com/LeivSuaxy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 <img src="https://github.com/LeivSuaxy/Image-Gen/blob/master/generated/overview.svg#gh-dark-mode-only"/>
 
 ## 🖥 Languages & Technologies
