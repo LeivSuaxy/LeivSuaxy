@@ -19,7 +19,7 @@
 ![Languages](https://raw.githubusercontent.com/LeivSuaxy/Image-Gen/master/generated/languages.svg#gh-dark-mode-only)
 
 ## ⚙ Frameworks
-![Django, Angular, Bootstrap](https://skillicons.dev/icons?i=django,angular,bootstrap)<br/>
+![Django, Angular, Bootstrap, FastAPI](https://skillicons.dev/icons?i=django,angular,bootstrap,fastapi&perline=2)<br/>
 
 ## 💾 Databases
 ![PostgreSQL, MySQL, SQLite, MongoDB](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb&perline=2)
@@ -29,13 +29,13 @@
 
 ## 📖 What I am currently learning / improving on
 
-![.NET, Node.JS, FastAPI, Docker](https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,docker&perline=2)
+![Node.JS, Docker, Astro](https://skillicons.dev/icons?i=nodejs,docker,astro&perline=3)
 
 * Learning about security systems and information encryption.
 
 ## 🔍 Interested in
 
-![React](https://skillicons.dev/icons?i=react&perline=3)
+![.NET](https://skillicons.dev/icons?i=dotnet&perline=3)
 
 ## 💻 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeivSuaxy&repo=Gestion-de-inventario-para-tienda-minorista&theme=vision-friendly-dark)](https://github.com/LeivSuaxy/Gestion-de-inventario-para-tienda-minorista)
