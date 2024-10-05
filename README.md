@@ -10,14 +10,13 @@
 💻Inclined towards backend web development.<br>
 
 ## Skills
-
-<img src="https://github.com/LeivSuaxy/Image-Gen/blob/master/generated/overview.svg#gh-dark-mode-only"/>
+![Stats Overview](https://raw.githubusercontent.com/LeivSuaxy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ## 🖥 Languages & Technologies
 ## 🛠 Languages
 ![Python, C-Sharp, Java, TypeScript, HTML5, CSS, JavaScript](https://skillicons.dev/icons?i=python,cs,java,ts,html,css,js&perline=3)
 
-<img src="https://github.com/LeivSuaxy/Image-Gen/blob/master/generated/languages.svg#gh-dark-mode-only"/>
+![Languages](https://raw.githubusercontent.com/LeivSuaxy/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## ⚙ Frameworks
 ![Django, Angular, Bootstrap](https://skillicons.dev/icons?i=django,angular,bootstrap)<br/>
