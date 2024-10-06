@@ -39,3 +39,4 @@
 
 ## 💻 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeivSuaxy&repo=Gestion-de-inventario-para-tienda-minorista&theme=vision-friendly-dark)](https://github.com/LeivSuaxy/Gestion-de-inventario-para-tienda-minorista)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeivSuaxy&repo=astro-ides-tools&theme=vision-friendly-dark)](https://github.com/LeivSuaxy/Gestion-de-inventario-para-tienda-minorista)
