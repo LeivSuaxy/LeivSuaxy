@@ -25,7 +25,7 @@
 ![PostgreSQL, MySQL, SQLite, MongoDB](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb&perline=2)
 
 ## 🔧 Tools
-![Git, JetBrains, VisualStudio, PostMan](https://skillicons.dev/icons?i=git,idea,pycharm,webstorm,rider,visualstudio,postman&perline=3)
+![Git, JetBrains, Visual Studio, Visual Studio Code, PostMan](https://skillicons.dev/icons?i=git,pycharm,visualstudio,vscode,postman&perline=3)
 
 ## 📖 What I am currently learning / improving on
 
