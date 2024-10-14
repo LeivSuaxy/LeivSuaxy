@@ -5,7 +5,6 @@
 
 😁Lover of technology and software development.<br> 
 📚Improving my English and learning more technologies.<br>
-🎓Studying at the <a href="https://www.uci.cu/">University of Computer Sciences</a>.<br>
 💪🏼Competitive personality with desire to improve.<br>
 💻Inclined towards backend web development.<br>
 
