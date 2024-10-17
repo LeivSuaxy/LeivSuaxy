@@ -28,7 +28,7 @@
 
 ## 📖 What I am currently learning / improving on
 
-![Node.JS, Docker](https://skillicons.dev/icons?i=nodejs,docker&perline=3)
+![Node.JS, Docker, Nestjs](https://skillicons.dev/icons?i=nodejs,docker,nestjs&perline=3)
 
 * Learning about security systems and information encryption.
 
