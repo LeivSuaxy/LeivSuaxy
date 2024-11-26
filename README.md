@@ -24,11 +24,11 @@
 ![PostgreSQL, MySQL, SQLite, MongoDB](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb&perline=2)
 
 ## 🔧 Tools
-![Git, JetBrains, Visual Studio, Visual Studio Code, PostMan](https://skillicons.dev/icons?i=git,pycharm,visualstudio,vscode,postman&perline=3)
+![Git, JetBrains, Visual Studio, Visual Studio Code, PostMan, Nodejs](https://skillicons.dev/icons?i=git,pycharm,visualstudio,vscode,postman,nodejs&perline=3)
 
 ## 📖 What I am currently learning / improving on
 
-![Node.JS, Docker, Nestjs](https://skillicons.dev/icons?i=nodejs,docker,nestjs&perline=3)
+![Docker, Nestjs](https://skillicons.dev/icons?i=docker,nestjs&perline=3)
 
 * Learning about security systems and information encryption.
 
