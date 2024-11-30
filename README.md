@@ -18,7 +18,7 @@
 ![Languages](https://raw.githubusercontent.com/LeivSuaxy/Image-Gen/master/generated/languages.svg#gh-dark-mode-only)
 
 ## ⚙ Frameworks
-![Django, Angular, Bootstrap, FastAPI, Astro](https://skillicons.dev/icons?i=django,angular,bootstrap,fastapi,astro&perline=3)<br/>
+![Django, Angular, Bootstrap, FastAPI, Astro, Nestjs](https://skillicons.dev/icons?i=django,angular,bootstrap,fastapi,astro,nestjs&perline=3)<br/>
 
 ## 💾 Databases
 ![PostgreSQL, MySQL, SQLite, MongoDB](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb&perline=2)
@@ -28,7 +28,7 @@
 
 ## 📖 What I am currently learning / improving on
 
-![Docker, Nestjs](https://skillicons.dev/icons?i=docker,nestjs&perline=3)
+![Docker, Nestjs](https://skillicons.dev/icons?i=docker&perline=3)
 
 * Learning about security systems and information encryption.
 
