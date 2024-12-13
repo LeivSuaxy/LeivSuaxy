@@ -13,7 +13,7 @@
 
 ## 🖥 Languages & Technologies
 ## 🛠 Languages
-![Python, C-Sharp, Java, TypeScript, HTML5, CSS, JavaScript](https://skillicons.dev/icons?i=python,cs,java,ts,html,css,js&perline=3)
+![Python, C-Sharp, TypeScript, HTML5, CSS, JavaScript](https://skillicons.dev/icons?i=python,cs,ts,html,css,js&perline=3)
 
 ![Languages](https://raw.githubusercontent.com/LeivSuaxy/Image-Gen/master/generated/languages.svg#gh-dark-mode-only)
 
