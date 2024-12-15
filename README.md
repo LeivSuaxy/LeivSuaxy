@@ -22,13 +22,12 @@
 
 ## 💾 Databases
 ![PostgreSQL, MySQL, SQLite, MongoDB](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb&perline=2)
-
 ## 🔧 Tools
 ![Git, JetBrains, Visual Studio, Visual Studio Code, PostMan, Nodejs](https://skillicons.dev/icons?i=git,pycharm,visualstudio,vscode,postman,nodejs&perline=3)
 
 ## 📖 What I am currently learning / improving on
 
-![Docker](https://skillicons.dev/icons?i=docker&perline=3)
+![Docker, Redis](https://skillicons.dev/icons?i=docker,redis&perline=3)
 
 * Learning about security systems and information encryption.
 
