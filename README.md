@@ -27,7 +27,7 @@
 
 ## 📖 What I am currently learning / improving on
 
-![Docker, Redis](https://skillicons.dev/icons?i=docker,redis&perline=3)
+![Docker, Redis, Rust](https://skillicons.dev/icons?i=docker,redis,rust&perline=3)
 
 * Learning about security systems and information encryption.
 
