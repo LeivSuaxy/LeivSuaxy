@@ -15,8 +15,6 @@
 ## 🛠 Languages
 ![Python, C-Sharp, TypeScript, HTML5, CSS, JavaScript](https://skillicons.dev/icons?i=python,cs,ts,html,css,js&perline=3)
 
-![Languages](https://raw.githubusercontent.com/LeivSuaxy/Image-Gen/master/generated/languages.svg#gh-dark-mode-only)
-
 ## ⚙ Frameworks
 ![Django, Angular, Bootstrap, FastAPI, Astro, Nestjs](https://skillicons.dev/icons?i=django,angular,bootstrap,fastapi,astro,nestjs&perline=3)<br/>
 
