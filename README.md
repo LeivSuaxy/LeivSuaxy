@@ -1,7 +1,6 @@
 # Hi, I'm LeivSuaxy!
 
-<b>I am a student of Computer Science Engineering, at the University of Computer Sciences
-(<a href="https://www.uci.cu/">UCI</a>) Cuba cu.<br></b>
+<b>Apassionate Junior Dev</b>
 
 😁Lover of technology and software development.<br> 
 📚Improving my English and learning more technologies.<br>
