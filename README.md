@@ -1,6 +1,6 @@
 # Hi, I'm LeivSuaxy!
 
-<b>Apassionate Junior Dev</b>
+<b>Apassionate Dev Junior</b>
 
 😁Lover of technology and software development.<br> 
 📚Improving my English and learning more technologies.<br>
