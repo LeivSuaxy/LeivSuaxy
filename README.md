@@ -15,7 +15,7 @@
 ![Python, C-Sharp, TypeScript, HTML5, CSS, JavaScript](https://skillicons.dev/icons?i=python,cs,ts,html,css,js&perline=3)
 
 ## ⚙ Frameworks
-![Django, Angular, Bootstrap, FastAPI, Astro, Nestjs](https://skillicons.dev/icons?i=django,angular,bootstrap,fastapi,astro,nestjs&perline=3)<br/>
+![Django, FastAPI, Astro, Nestjs](https://skillicons.dev/icons?i=django,fastapi,astro,nestjs&perline=3)<br/>
 
 ## 💾 Databases
 ![PostgreSQL, MySQL, SQLite, MongoDB](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb&perline=2)
