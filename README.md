@@ -24,10 +24,10 @@
 
 ## 📖 What I am currently learning / improving on
 
-![Docker, Redis, Rust](https://skillicons.dev/icons?i=docker,redis,rust&perline=3)
+![Docker, Redis, Rust, .NET](https://skillicons.dev/icons?i=docker,redis,rust,dotnet&perline=3)
 
 * Learning about security systems and information encryption.
 
 ## 🔍 Interested in
 
-![.NET](https://skillicons.dev/icons?i=dotnet&perline=3)
+![React](https://skillicons.dev/icons?i=react&perline=3)
