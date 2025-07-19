@@ -23,7 +23,7 @@
 
 ## 📖 What I am currently learning / improving on
 
-![Rust](https://skillicons.dev/icons?i=rust&perline=3)
+![Rust, Flutter](https://skillicons.dev/icons?i=rust,flutter&perline=3)
 
 * Learning about security systems and information encryption.
 
